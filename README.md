@@ -6,7 +6,7 @@ This is a beginner-friendly Excel dashboard project I created by following a tut
 
 ## 🖼️ Dashboard Preview
 
-![Bike Sales Dashboard](dashboard_screenshot.png)
+![Bike Sales Dashboard](dashboard.png)
 
 
 ![Dashboard Demo](dashboard.gif)
