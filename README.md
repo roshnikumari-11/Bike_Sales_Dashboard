@@ -67,7 +67,7 @@ This project was part of my practice to reinforce the **foundations of Excel dat
 
 ## 🙏 Credits
 
-- Tutorial by: [Excel Tutorials for Beginners – YouTube](https://youtu.be/opJgMj1IUrc?si=buY2A3hbCXgIqBOO)
+- Tutorial by: [Data Analyst Bootcamp – Excel Tutorials for Beginners](https://youtu.be/opJgMj1IUrc?si=buY2A3hbCXgIqBOO)
 
 ---
 
